@@ -9,12 +9,13 @@
   :root {
     --accent-color: #ff8dcb;
     --title-accent-color: #ffc2e6;
-    --text-color: #353430;
+    --text-color: var(--dark-gray-color);
     --bg-color: var(--light-color);
     --page-bg-image: url(../images/cover-image-light.png);
-    --content-section-heading-color: var(--text-color);
-    --title-decor-color: var(--text-color);
-    --theme-menu-button-color: var(--text-color);
+    --decorated-zone-border-color: var(--dark-gray-color);
+    --content-section-heading-color: var(--dark-gray-color);
+    --title-decor-color: var(--dark-gray-color);
+    --theme-menu-button-color: var(--dark-gray-color);
     --theme-menu-button-hover-border-color: hsl(48 5% 19% / 0.4);
   }
 
@@ -31,12 +32,13 @@
 
   --accent-color: #ff8dcb;
   --title-accent-color: #ffc2e6;
-  --text-color: #353430;
+  --text-color: var(--dark-gray-color);
   --bg-color: var(--light-color);
   --page-bg-image: url(../images/cover-image-light.png);
-  --content-section-heading-color: var(--text-color);
-  --title-decor-color: var(--text-color);
-  --theme-menu-button-color: var(--text-color);
+  --content-section-heading-color: var(--dark-gray-color);
+  --decorated-zone-border-color: var(--dark-gray-color);
+  --title-decor-color: var(--dark-gray-color);
+  --theme-menu-button-color: var(--dark-gray-color);
   --theme-menu-button-hover-border-color: hsl(48 5% 19% / 0.4);
 }
 

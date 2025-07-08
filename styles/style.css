@@ -84,7 +84,7 @@ a:focus-visible {
 .decorated-zone::after {
   content: '';
   position: absolute;
-  border: 1px solid var(--accent-color, #ff0070);
+  border: 1px solid var(--decorated-zone-border-color, #ff0070);
   block-size: 25px;
   inline-size: 25px;
 }
@@ -327,7 +327,6 @@ a:focus-visible {
 
 
 /* START How concentrate */
-
 
 @media (width >= 768px) {
 
