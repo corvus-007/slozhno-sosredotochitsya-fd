@@ -14,7 +14,7 @@
   --title-accent-color: #db00ff;
   --text-color: #f1b2ce;
   --bg-color: var(--dark-color);
-  --page-bg-image: url(../images/cover-image-dark.png);
+  --bg-image: url(../images/cover-image-dark.png);
   --decorated-zone-border-color: var(--accent-color);
   --content-section-heading-color: var(--accent-color);
   --title-decor-color: var(--dark-color);

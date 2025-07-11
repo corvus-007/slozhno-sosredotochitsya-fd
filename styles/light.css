@@ -11,7 +11,7 @@
     --title-accent-color: #ffc2e6;
     --text-color: var(--dark-gray-color);
     --bg-color: var(--light-color);
-    --page-bg-image: url(../images/cover-image-light.png);
+    --bg-image: url(../images/cover-image-light.png);
     --decorated-zone-border-color: var(--dark-gray-color);
     --content-section-heading-color: var(--dark-gray-color);
     --title-decor-color: var(--dark-gray-color);
@@ -34,7 +34,7 @@
   --title-accent-color: #ffc2e6;
   --text-color: var(--dark-gray-color);
   --bg-color: var(--light-color);
-  --page-bg-image: url(../images/cover-image-light.png);
+  --bg-image: url(../images/cover-image-light.png);
   --content-section-heading-color: var(--dark-gray-color);
   --decorated-zone-border-color: var(--dark-gray-color);
   --title-decor-color: var(--dark-gray-color);
